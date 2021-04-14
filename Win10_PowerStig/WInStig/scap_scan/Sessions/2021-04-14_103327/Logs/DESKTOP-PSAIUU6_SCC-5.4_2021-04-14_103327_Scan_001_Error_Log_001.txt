@@ -1,0 +1,6 @@
+SCC - 5.4 on host DESKTOP-PSAIUU6 running Windows 10 Enterprise 2009 (Intel64 Family 6 Model 63 Stepping 2)
+
+    Time	 Level	Message
+
+10:33:36	ERROR	"Error handling error: 2, SetFileSecurity" from Error found in FileSystem (919).
+10:33:36	ERROR	"Error handling error: 2, SetFileSecurity" from Error found in FileSystem (919).

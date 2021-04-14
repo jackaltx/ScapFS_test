@@ -1,0 +1,6 @@
+SCC - 5.4 on host WIN-3NINJLAVLQ4 running Windows Server 2016 Standard 1607 (Intel64 Family 6 Model 63 Stepping 2)
+
+    Time	 Level	Message
+
+08:27:51	ERROR	"Error handling error: 2, SetFileSecurity" from Error found in FileSystem (919).
+08:27:51	ERROR	"Error handling error: 2, SetFileSecurity" from Error found in FileSystem (919).
